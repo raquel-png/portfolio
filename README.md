@@ -1,2 +1,2 @@
 # portfolio
-My C++ Portfolio
+Hello and welcome to my C++ portfolio.
